@@ -1,7 +1,7 @@
 # Bellabeat-case-study-with-R
 This repository contains a comprehensive case study of Bellabeat, a fictional wellness company, performed using the R programming language. The case study focuses on analyzing user data and providing insights into user behavior and engagement with Bellabeat products.
 
-**Description:**
+# **Description:**
 
 In this project, we explore a dataset provided by Bellabeat, which includes various user metrics such as activity levels, sleep patterns, and calories burnt. Leveraging the power of R and its diverse libraries, we conduct a thorough analysis to gain valuable insights into user behaviors and preferences.
 
