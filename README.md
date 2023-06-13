@@ -1,18 +1,15 @@
 # Bellabeat-case-study-with-R
 This repository contains a comprehensive case study of Bellabeat, a fictional wellness company, performed using the R programming language. The case study focuses on analyzing user data and providing insights into user behavior and engagement with Bellabeat products.
-Description:
 
-In this project, we explore a dataset provided by Bellabeat, which includes various user metrics such as activity levels, sleep patterns, and stress levels. Leveraging the power of R and its diverse libraries, we conduct a thorough analysis to gain valuable insights into user behaviors and preferences.
+**Description:**
+
+In this project, we explore a dataset provided by Bellabeat, which includes various user metrics such as activity levels, sleep patterns, and calories burnt. Leveraging the power of R and its diverse libraries, we conduct a thorough analysis to gain valuable insights into user behaviors and preferences.
 
 ### The key objectives of this case study are as follows:
 
-Data exploration and preprocessing: We examine the Bellabeat dataset, perform data cleaning, handle missing values, and transform the data into a suitable format for analysis.
+Data exploration and preprocessing: We examine the Bellabeat dataset, perform data cleaning, data manipulation, and transform the data into a suitable format for analysis.
 
 Exploratory data analysis: We conduct in-depth exploratory analysis to uncover patterns, trends, and relationships within the dataset. We visualize the data using graphs, charts, and statistical summaries to gain a comprehensive understanding of user behaviors.
-
-Feature engineering: We engineer new features or derive meaningful metrics from the existing dataset that can provide deeper insights into user engagement and preferences.
-
-Statistical analysis: We apply statistical techniques and hypothesis testing to identify significant findings and draw meaningful conclusions from the data.
 
 Visualization and storytelling: We create compelling visualizations and data-driven narratives to communicate our findings effectively, enabling stakeholders to make informed decisions.
 
